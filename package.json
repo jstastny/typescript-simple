@@ -16,7 +16,7 @@
     "typescript": "^2.2.1"
   },
   "devDependencies": {
-    "@types/node": "^4.2.21",
+    "@types/node": "^8.5.7",
     "mocha": "^3.5.3"
   },
   "homepage": "https://github.com/teppeis/typescript-simple",
